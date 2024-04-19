@@ -1,0 +1,1887 @@
+{
+  "rss": {
+    "$": {
+      "version": "2.0",
+      "xmlns:media": "http://search.yahoo.com/mrss/",
+      "xmlns:abcnews": "http://abcnews.com/content/"
+    },
+    "channel": [
+      {
+        "title": [
+          "ABC News: US"
+        ],
+        "link": [
+          "http://abcnews.go.com"
+        ],
+        "description": [
+          ""
+        ],
+        "image": [
+          {
+            "title": [
+              "ABC News: US"
+            ],
+            "url": [
+              "https://s.abcnews.com/images/site/abcnews_google_rss_logo.png"
+            ],
+            "link": [
+              "http://abcnews.go.com"
+            ]
+          }
+        ],
+        "item": [
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d9bd7b0402eb95e4c58d8489ba7d7daa_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "1"
+            ],
+            "title": [
+              " Stock market today: Japan’s Nikkei leads Asian market retreat as Middle East tensions flare"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/stock-market-today-japans-nikkei-leads-asian-market-109414344"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/stock-market-today-japans-nikkei-leads-asian-market-109414344"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 03:10:34 -0400"
+            ],
+            "description": [
+              "Asian stocks have tumbled, with Japan&rsquo;s Nikkei slumping 2.4% on heavy selling of semiconductor-related shares and other market heavyweights"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_07ecdd87c4756cc4a1dbd4ad3b1f682c_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "2"
+            ],
+            "title": [
+              " AP Explains: 4/20 grew from humble roots to marijuana's high holiday"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/ap-explains-420-grew-humble-roots-marijuanas-high-109412493"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/ap-explains-420-grew-humble-roots-marijuanas-high-109412493"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 01:50:28 -0400"
+            ],
+            "description": [
+              "Marijuana advocates are gearing up for April 20"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "3"
+            ],
+            "title": [
+              " Police say a suicide bombing in Karachi, Pakistan, targeted a van carrying Japanese autoworkers, who narrowly escaped"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/police-suicide-bombing-karachi-pakistan-targeted-van-carrying-109412066"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/police-suicide-bombing-karachi-pakistan-targeted-van-carrying-109412066"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 01:41:59 -0400"
+            ],
+            "description": [
+              "Police say a suicide bombing in Karachi, Pakistan, targeted a van carrying Japanese autoworkers, who narrowly escaped"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_cd9a904dd919a171b0c4c93899867e42_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "4"
+            ],
+            "title": [
+              " BNSF Railway says it didn't know about asbestos that's killed hundreds in Montana town"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/bnsf-railway-asbestos-killed-hundreds-montana-town-109411943"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/bnsf-railway-asbestos-killed-hundreds-montana-town-109411943"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 01:34:26 -0400"
+            ],
+            "description": [
+              "BNSF Railway attorneys are expected to argue before jurors that the railroad should not be held liable for the lung cancer deaths of two former residents of an asbestos-contaminated Montana town"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_37a91e0edbaa25965fe2d4d75ad7e0f8_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "5"
+            ],
+            "title": [
+              " Would you like a cicada salad? The monstrous little noisemakers descend on a New Orleans menu"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/cicada-salad-monstrous-noisemakers-descend-new-orleans-menu-109411945"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/cicada-salad-monstrous-noisemakers-descend-new-orleans-menu-109411945"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 01:26:19 -0400"
+            ],
+            "description": [
+              "They may look like little monsters"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ab8d7f22eea423d86fb350665b9e66f6_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "6"
+            ],
+            "title": [
+              " Chicago's response to migrant influx stirs longstanding frustrations among Black residents"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/chicagos-response-migrant-influx-stirs-longstanding-frustrations-black-109410648"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/chicagos-response-migrant-influx-stirs-longstanding-frustrations-black-109410648"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 01:10:38 -0400"
+            ],
+            "description": [
+              "Chicago is one of several big American cities grappling with a surge of migrants"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8192518ccec2397cdbafcd6df09d8228_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "7"
+            ],
+            "title": [
+              " Finding an apartment may be easier for California pet owners under new legislation"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/finding-apartment-easier-california-pet-owners-new-legislation-109410639"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/finding-apartment-easier-california-pet-owners-new-legislation-109410639"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 01:10:25 -0400"
+            ],
+            "description": [
+              "A bill in California wants to make more rental housing available to tenants with pets"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_8f76505e15cceca1c9747087ae01bec4_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "8"
+            ],
+            "title": [
+              " Reality TV's Chrisleys are appealing their bank fraud and tax evasion convictions in federal court"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/reality-tvs-chrisleys-appealing-bank-fraud-tax-evasion-109409804"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/reality-tvs-chrisleys-appealing-bank-fraud-tax-evasion-109409804"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 00:38:18 -0400"
+            ],
+            "description": [
+              "Reality TV stars Todd and Julie Chrisley have appealed aspects of their convictions on federal charges of bank fraud and tax evasion"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_33c152265a36da8d47790ba17b5bf686_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "9"
+            ],
+            "title": [
+              " 12 students and teacher killed at Columbine to be remembered at 25th anniversary vigil"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/12-students-teacher-killed-columbine-remembered-25th-anniversary-109409811"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/12-students-teacher-killed-columbine-remembered-25th-anniversary-109409811"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 00:14:32 -0400"
+            ],
+            "description": [
+              "The 12 students and one teacher killed in the Columbine High School shooting will be remembered in a vigil on the eve of the 25th anniversary of the tragedy"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_24147c3774c8a411044c530cafcab292_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "10"
+            ],
+            "title": [
+              " Jury selection could be nearing a close in Donald Trump's hush money trial in New York"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/jury-selection-nearing-close-donald-trumps-hush-money-109409810"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/jury-selection-nearing-close-donald-trumps-hush-money-109409810"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 00:14:24 -0400"
+            ],
+            "description": [
+              "A third panel of potential jurors is set to be questioned in Donald Trump&rsquo;s hush money case, drawing jury selection a step closer to completion in the first criminal trial of a former U.S. president"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_9ce6c87c8fc653c840654de1ae5f7a1c_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "11"
+            ],
+            "title": [
+              " Emergency rooms refused to treat pregnant women, leaving one to miscarry in a lobby restroom"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/emergency-rooms-refused-treat-pregnant-women-leaving-miscarry-109409806"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/emergency-rooms-refused-treat-pregnant-women-leaving-miscarry-109409806"
+            ],
+            "pubDate": [
+              "Fri, 19 Apr 2024 00:14:30 -0400"
+            ],
+            "description": [
+              "Complaints about pregnant women being turned away from emergency rooms spiked in the months after states began enacting strict abortion laws following the 2022 U.S. Supreme Court decision overturning Roe v. Wade"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "12"
+            ],
+            "title": [
+              " Iranian state television says nuclear facilities near Isfahan 'fully safe' after air defense batteries fired in area"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/iranian-state-television-nuclear-facilities-isfahan-fully-safe-109408312"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/iranian-state-television-nuclear-facilities-isfahan-fully-safe-109408312"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 23:58:01 -0400"
+            ],
+            "description": [
+              "Iranian state television says nuclear facilities near Isfahan 'fully safe' after air defense batteries fired in area"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "13"
+            ],
+            "title": [
+              " Iran grounds commercial aircraft across wide swath of the country as air defense systems fire amid reported explosions"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/iran-grounds-commercial-aircraft-wide-swath-country-air-109407990"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/iran-grounds-commercial-aircraft-wide-swath-country-air-109407990"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 23:41:58 -0400"
+            ],
+            "description": [
+              "Iran grounds commercial aircraft across wide swath of the country as air defense systems fire amid reported explosions"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "14"
+            ],
+            "title": [
+              " Iran fires air defense batteries in several provinces, the state-run IRNA news agency reports, without elaborating"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/iran-fires-air-defense-batteries-provinces-state-run-109407724"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/iran-fires-air-defense-batteries-provinces-state-run-109407724"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 23:25:58 -0400"
+            ],
+            "description": [
+              "Iran fires air defense batteries in several provinces, the state-run IRNA news agency reports, without elaborating"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "15"
+            ],
+            "title": [
+              " Iranian state TV says 'loud sound' heard in Isfahan province as flights divert around area amid tensions with Israel"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/iranian-state-tv-loud-sound-heard-isfahan-province-109407350"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/iranian-state-tv-loud-sound-heard-isfahan-province-109407350"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 22:46:01 -0400"
+            ],
+            "description": [
+              "Iranian state TV says 'loud sound' heard in Isfahan province as flights divert around area amid tensions with Israel"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/Business/wirestory_d404cf4669ee10deeb4eaba3e5cab1ad_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "16"
+            ],
+            "title": [
+              " Google is combining its Android software and Pixel hardware divisions to more broadly integrate AI"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/google-combining-android-software-pixel-hardware-divisions-broadly-109407358"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/google-combining-android-software-pixel-hardware-divisions-broadly-109407358"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 23:02:28 -0400"
+            ],
+            "description": [
+              "Google says it will combine the software division responsible for Android mobile software and the Chrome browser with the hardware division known for Pixel smartphones and Fitbit wearables"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "17"
+            ],
+            "title": [
+              " Unfair labor complaint filed against Notre Dame over athletes"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/unfair-labor-complaint-filed-notre-dame-athletes-109406262"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/unfair-labor-complaint-filed-notre-dame-athletes-109406262"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 23:41:52 -0400"
+            ],
+            "description": [
+              "An unfair labor complaint has been filed against the University of Notre Dame for classifying college athletes as &ldquo;student-athletes.&rdquo;"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "18"
+            ],
+            "title": [
+              " India begins voting in a 6-week election that could give Hindu nationalist Prime Minister Narendra Modi a third term"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/india-begins-voting-6-week-election-give-hindu-109405948"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/india-begins-voting-6-week-election-give-hindu-109405948"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 22:05:52 -0400"
+            ],
+            "description": [
+              "India begins voting in a 6-week election that could give Hindu nationalist Prime Minister Narendra Modi a third term"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac521f30dbe111024b865e2d61e5b9b9_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "19"
+            ],
+            "title": [
+              " Nevada Supreme Court rulings hand setbacks to gun-right defenders and anti-abortion activists"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/nevada-supreme-court-rulings-hand-setbacks-gun-defenders-109405602"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/nevada-supreme-court-rulings-hand-setbacks-gun-defenders-109405602"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 21:34:19 -0400"
+            ],
+            "description": [
+              "Nevada's Supreme Court has handed setbacks to gun-right defenders and anti-abortion activists in two new rulings"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_6e76e7614085a047a4c011b787a98da2_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "20"
+            ],
+            "title": [
+              " US deports about 50 Haitians to nation hit with gang violence, ending monthslong pause in flights"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/us-deports-50-haitians-nation-hit-gang-violence-109405235"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/us-deports-50-haitians-nation-hit-gang-violence-109405235"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 21:58:27 -0400"
+            ],
+            "description": [
+              "The Biden administration says it has sent about 50 Haitians back to their country, marking its first deportation flight in months to the Caribbean nation struggling under surging gang violence"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_d6d7447493806e07e251955376cd066a_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "21"
+            ],
+            "title": [
+              " Hawaii Supreme Court chides state's legal moves on water after deadly Maui wildfire"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/hawaii-supreme-court-chides-states-legal-moves-water-109405232"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/hawaii-supreme-court-chides-states-legal-moves-water-109405232"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 21:26:19 -0400"
+            ],
+            "description": [
+              "The Hawaii Supreme Court says the state attorney general's office must pay attorney fees for using last year's Maui wildfire tragedy to file a petition in &ldquo;bad faith&rdquo; that blamed a state court judge for a lack of water for firefighting"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9t_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "22"
+            ],
+            "title": [
+              " Legislation allowing doctor-assisted suicide narrowly clears Delaware House, heads to state Senate"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/legislation-allowing-doctor-assisted-suicide-narrowly-clears-delaware-109403214"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/legislation-allowing-doctor-assisted-suicide-narrowly-clears-delaware-109403214"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 18:46:01 -0400"
+            ],
+            "description": [
+              "A bill allowing doctor-assisted suicide in Delaware has narrowly cleared the Democrat-led House and now goes to the state Senate for consideration"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_ac1499422312c9ee51cce1ca27f00625_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "23"
+            ],
+            "title": [
+              " California governor pledges state oversight for cities, counties lagging on solving homelessness"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/california-governor-pledges-state-oversight-cities-counties-lagging-109403429"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/california-governor-pledges-state-oversight-cities-counties-lagging-109403429"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 18:46:20 -0400"
+            ],
+            "description": [
+              "California Gov. Gavin Newsom has announced nearly $200 million in grant money to cities and counties to move homeless people from encampments into housing"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_f858be6648fa2df7d2ab69efd30a524c_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "24"
+            ],
+            "title": [
+              " Judge in Trump case orders media not to report where potential jurors work"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/judge-trump-case-orders-media-report-potential-jurors-109402722"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/judge-trump-case-orders-media-report-potential-jurors-109402722"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 20:22:20 -0400"
+            ],
+            "description": [
+              "The judge in Donald Trump's hush money trial has ordered the media not to report where potential jurors have worked"
+            ],
+            "category": [
+              "US"
+            ]
+          },
+          {
+            "media:thumbnail": [
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_4x3_144.jpg",
+                  "width": "144",
+                  "height": "108"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_4x3_384.jpg",
+                  "width": "384",
+                  "height": "288"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_16x9_240.jpg",
+                  "width": "240",
+                  "height": "135"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_4x3_608.jpg",
+                  "width": "608",
+                  "height": "456"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_16x9_992.jpg",
+                  "width": "992",
+                  "height": "558"
+                }
+              },
+              {
+                "$": {
+                  "url": "https://s.abcnews.com/images/US/wirestory_34eb7b76827456831a72b51a426bb096_16x9_1600.jpg",
+                  "width": "1600",
+                  "height": "900"
+                }
+              }
+            ],
+            "media:keywords": [
+              "25"
+            ],
+            "title": [
+              " Kentucky governor announces lottery to award initial round of medical cannabis business licenses"
+            ],
+            "link": [
+              "https://abcnews.go.com/US/wireStory/kentucky-governor-announces-lottery-award-initial-round-medical-109402557"
+            ],
+            "guid": [
+              "https://abcnews.go.com/US/wireStory/kentucky-governor-announces-lottery-award-initial-round-medical-109402557"
+            ],
+            "pubDate": [
+              "Thu, 18 Apr 2024 18:46:31 -0400"
+            ],
+            "description": [
+              "Gov. Andy Beshear says Kentucky will use a lottery to award licenses to businesses competing to participate in the state&rsquo;s startup medical cannabis program"
+            ],
+            "category": [
+              "US"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
